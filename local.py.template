@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+# @Author: Simon Muthusi
+# @Date:   2022-03-02 10:57:17
+# @Last Modified by:   Simon Muthusi
+# @Last Modified time: 2022-03-02 11:01:24
+
+# Purpose of this file is to remove dependancy on dotenv, which seems unavailable on Debian10.2
+cdr_incoming='/Users/simoh/Documents/ASN1/cdrs/incoming/'
+cdr_csv='/Users/simoh/Documents/ASN1/cdrs/csv/'
+cdr_archive='/Users/simoh/Documents/ASN1/cdrs/archive/'
+cdr_failed='/Users/simoh/Documents/ASN1/cdrs/failed/'
+cdr_temp='/Users/simoh/Documents/ASN1/cdrs/temp/'
+output_format='json'
+output_format_csv_delimiter=';'
+acs_client='mtn.sz'

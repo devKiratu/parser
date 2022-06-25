@@ -1,0 +1,2 @@
+python-dotenv
+dtone_cdrparser
